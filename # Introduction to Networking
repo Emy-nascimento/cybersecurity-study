@@ -1,0 +1,44 @@
+
+
+## Objective
+
+Understand the basic concepts of computer networking and how devices communicate.
+
+## Concepts studied
+
+* IP addresses
+* MAC addresses
+* TCP/IP
+* DNS
+* DHCP
+* Ports
+* Protocols
+
+## Hands-on practice
+
+During the lab, I practiced identifying network concepts and understanding how different protocols are used during communication.
+
+## Commands / Tools
+
+```bash
+ip addr
+ip route
+ping
+nslookup
+```
+
+## What I learned
+
+* Difference between IP and MAC addresses
+* Purpose of DNS
+* Purpose of DHCP
+* How ports identify network services
+* Basic network troubleshooting
+
+## Troubleshooting
+
+One important lesson from this lab was understanding how to approach a connectivity problem step by step instead of guessing the cause.
+
+## Key takeaway
+
+Networking fundamentals are important for infrastructure and cybersecurity because many security problems involve understanding how systems communicate.
